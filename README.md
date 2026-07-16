@@ -12,16 +12,15 @@ C++ code for the **Design and Analysis of Algorithm** video series by **Areesha 
 | # | Topic | Code |
 |---|-------|------|
 | 1 | What are Algorithms? | [`01_what_are_algorithms.cpp`](01_what_are_algorithms.cpp) |
-| 2 | How to Analyze an Algorithm | [`02_analyzing_algorithms.cpp`](02_analyzing_algorithms.cpp) |
-| 3 | Complexity of Algorithms | _coming soon_ |
-| 4 | Growth of Functions (Asymptotic Notations) | _coming soon_ |
-| 5 | Performance Measurement | _coming soon_ |
-| 6 | Shell Sort | _coming soon_ |
-| 7 | Quick Sort | _coming soon_ |
-| 8 | Merge Sort | _coming soon_ |
-| 9 | Heap Sort | _coming soon_ |
-| 10 | Comparison of Sorting Algorithms | _coming soon_ |
-| 11 | Sorting in Linear Time | _coming soon_ |
+| 2 | Analyzing an Algorithm — time & space complexity, best/worst case | [`02_analyzing_algorithms.cpp`](02_analyzing_algorithms.cpp) |
+| 3 | Growth of Functions — Asymptotic Notations (Big-O, Ω, Θ) | [`03_asymptotic_notations.cpp`](03_asymptotic_notations.cpp) |
+| 4 | Performance Measurement | _coming soon_ |
+| 5 | Shell Sort | _coming soon_ |
+| 6 | Quick Sort | _coming soon_ |
+| 7 | Merge Sort | _coming soon_ |
+| 8 | Heap Sort | _coming soon_ |
+| 9 | Comparison of Sorting Algorithms | _coming soon_ |
+| 10 | Sorting in Linear Time | _coming soon_ |
 
 ### Unit-II — Advanced Data Structures
 Red-Black Trees · B-Trees · Binomial Heaps · Fibonacci Heaps
