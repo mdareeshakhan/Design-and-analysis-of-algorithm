@@ -15,9 +15,9 @@ C++ code for the **Design and Analysis of Algorithm** video series by **Areesha 
 | 2 | Analyzing an Algorithm — time & space complexity, best/worst case | [`02_analyzing_algorithms.cpp`](02_analyzing_algorithms.cpp) |
 | 3 | Growth of Functions — Asymptotic Notations (Big-O, Ω, Θ) | [`03_asymptotic_notations.cpp`](03_asymptotic_notations.cpp) |
 | 4 | Performance Measurement | [`04_performance_measurement.cpp`](04_performance_measurement.cpp) |
-| 5 | Shell Sort | _coming soon_ |
-| 6 | Quick Sort | _coming soon_ |
-| 7 | Merge Sort | _coming soon_ |
+| 5 | Shell Sort | [`05_shell_sort.cpp`](05_shell_sort.cpp) |
+| 6 | Quick Sort | [`06_quick_sort.cpp`](06_quick_sort.cpp) |
+| 7 | Merge Sort | [`07_merge_sort.cpp`](07_merge_sort.cpp) |
 | 8 | Heap Sort | _coming soon_ |
 | 9 | Comparison of Sorting Algorithms | _coming soon_ |
 | 10 | Sorting in Linear Time | _coming soon_ |
