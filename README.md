@@ -12,7 +12,7 @@ C++ code for the **Design and Analysis of Algorithm** video series by **Areesha 
 | # | Topic | Code |
 |---|-------|------|
 | 1 | What are Algorithms? | [`01_what_are_algorithms.cpp`](01_what_are_algorithms.cpp) |
-| 2 | How to Analyze an Algorithm | _coming soon_ |
+| 2 | How to Analyze an Algorithm | [`02_analyzing_algorithms.cpp`](02_analyzing_algorithms.cpp) |
 | 3 | Complexity of Algorithms | _coming soon_ |
 | 4 | Growth of Functions (Asymptotic Notations) | _coming soon_ |
 | 5 | Performance Measurement | _coming soon_ |
