@@ -14,7 +14,7 @@ C++ code for the **Design and Analysis of Algorithm** video series by **Areesha 
 | 1 | What are Algorithms? | [`01_what_are_algorithms.cpp`](01_what_are_algorithms.cpp) |
 | 2 | Analyzing an Algorithm — time & space complexity, best/worst case | [`02_analyzing_algorithms.cpp`](02_analyzing_algorithms.cpp) |
 | 3 | Growth of Functions — Asymptotic Notations (Big-O, Ω, Θ) | [`03_asymptotic_notations.cpp`](03_asymptotic_notations.cpp) |
-| 4 | Performance Measurement | _coming soon_ |
+| 4 | Performance Measurement | [`04_performance_measurement.cpp`](04_performance_measurement.cpp) |
 | 5 | Shell Sort | _coming soon_ |
 | 6 | Quick Sort | _coming soon_ |
 | 7 | Merge Sort | _coming soon_ |
